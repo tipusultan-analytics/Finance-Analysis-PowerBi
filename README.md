@@ -14,9 +14,8 @@ An end-to-end Power BI finance analytics project built for a fictional bank, "Fi
 
 
 
-![Transaction](transaction%20(1)
+![Transaction](transaction%20%281%29.png)
 
-.png)
 
 ## Problem Statement / Objective
 
